@@ -16,5 +16,3 @@ Included topics:
 - performance, startup, memory, trimming, AOT, linker, packaging, and deployment
 - CommunityToolkit.Maui and other relevant MAUI libraries
 - CI/CD, signing, store publishing, diagnostics, and production lessons
-
-General .NET, AI, or developer-productivity news is excluded unless it directly affects .NET MAUI development workflows.
